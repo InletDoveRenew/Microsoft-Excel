@@ -23,8 +23,6 @@ Microsoft Excel is a powerful spreadsheet application developed by Microsoft for
 
 ## System Requirements
 
-```
-```
 | Parameter  | Minimum |
 | ---------- | ------- |
 | OS         | Windows 11 or Windows 10 |
@@ -32,5 +30,4 @@ Microsoft Excel is a powerful spreadsheet application developed by Microsoft for
 | RAM        | 4 GB (64-bit); 2 GB (32-bit) |
 | Disk Space | 4 GB |
 | Additional | Internet access, Microsoft account; DirectX 10 for graphics acceleration |
-```
-```
+
